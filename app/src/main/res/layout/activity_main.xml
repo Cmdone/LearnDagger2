@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:ignore="HardcodedText">
+
+    <Button
+        android:id="@+id/case_01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case01"/>
+
+    <Button
+        android:id="@+id/case_02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case02"/>
+
+    <Button
+        android:id="@+id/case_03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case03"/>
+
+    <Button
+        android:id="@+id/case_04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case04"/>
+
+    <Button
+        android:id="@+id/case_05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case05"/>
+
+    <Button
+        android:id="@+id/case_06"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case06"/>
+
+    <Button
+        android:id="@+id/case_07"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case07"/>
+
+    <Button
+        android:id="@+id/case_08"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case08"/>
+
+    <Button
+        android:id="@+id/case_09"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case09"/>
+
+    <Button
+        android:id="@+id/case_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="case10"/>
+
+</LinearLayout>
