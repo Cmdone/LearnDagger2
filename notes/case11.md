@@ -656,13 +656,13 @@ public abstract class DaggerApplication extends Application
 
 其实最开始看到dagger已经是很久之前了，写本系列时也忘记刻意记下参考文章orz，我只能翻查浏览器记录希望能补全吧：
 
-[Dagger 官方文档](https://google.github.io/dagger/) - 最不推荐看的文档了= =恕我直言，这个官方指引对新手来说就是一坨[哔——]
-[Dagger2 最清晰的使用教程](https://www.jianshu.com/p/24af4c102f62) - 看得最久的一篇文章，不过我看的感觉和文章开头差不多，也是脑浆炸裂
-[Dagger 2 完全解析（一），Dagger 2 的基本使用与原理](http://johnnyshieh.me/posts/dagger-basic/) - 这个系列还不错，能够理解什么是依赖关系，什么是继承关系，最重要的是最后一篇是用kotlin写的，好评如潮
-[广播onReceive()方法的context类型探究](https://blog.csdn.net/lyl0530/article/details/81105365) - 关于广播接收器中的`Context`究竟是什么
-[Dagger2 依赖的接力游戏（六）：Bind、BindInstance、Multibinds注解](https://www.jianshu.com/p/f875cc7f7305) - 主要是学习了Bind系列注解，讲得蛮好的
-[Dagger 2 multibindings with Kotlin](https://stackoverflow.com/questions/43141740/dagger-2-multibindings-with-kotlin) - dagger在kotlin中出现泛型问题？先试试`@JvmSuppressWildcards`吧
-[DI框架Dagger2系统性学习-不容错过的干货](https://www.jianshu.com/p/d8dd55956e74) - 官方文档的翻译，没怎么看
-[Dagger2 进阶使用](https://www.jianshu.com/p/f525e3ec4806) - 很多dagger的非基础使用，使用kotlin简直满分
-[深入Dagger:自定义AutoValue](https://www.jianshu.com/p/8e530d51cf39) - 介绍了Google的AutoValue框架，以及如何与dagger混用
+[Dagger 官方文档](https://google.github.io/dagger/) - 最不推荐看的文档了= =恕我直言，这个官方指引对新手来说就是一坨[哔——]  
+[Dagger2 最清晰的使用教程](https://www.jianshu.com/p/24af4c102f62) - 看得最久的一篇文章，不过我看的感觉和文章开头差不多，也是脑浆炸裂  
+[Dagger 2 完全解析（一），Dagger 2 的基本使用与原理](http://johnnyshieh.me/posts/dagger-basic/) - 这个系列还不错，能够理解什么是依赖关系，什么是继承关系，最重要的是最后一篇是用kotlin写的，好评如潮  
+[广播onReceive()方法的context类型探究](https://blog.csdn.net/lyl0530/article/details/81105365) - 关于广播接收器中的`Context`究竟是什么  
+[Dagger2 依赖的接力游戏（六）：Bind、BindInstance、Multibinds注解](https://www.jianshu.com/p/f875cc7f7305) - 主要是学习了Bind系列注解，讲得蛮好的  
+[Dagger 2 multibindings with Kotlin](https://stackoverflow.com/questions/43141740/dagger-2-multibindings-with-kotlin) - dagger在kotlin中出现泛型问题？先试试`@JvmSuppressWildcards`吧  
+[DI框架Dagger2系统性学习-不容错过的干货](https://www.jianshu.com/p/d8dd55956e74) - 官方文档的翻译，没怎么看  
+[Dagger2 进阶使用](https://www.jianshu.com/p/f525e3ec4806) - 很多dagger的非基础使用，使用kotlin简直满分  
+[深入Dagger:自定义AutoValue](https://www.jianshu.com/p/8e530d51cf39) - 介绍了Google的AutoValue框架，以及如何与dagger混用  
 
